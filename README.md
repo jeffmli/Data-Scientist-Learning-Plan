@@ -23,21 +23,32 @@ Pass take-home examination
 ## Resources
 
 Codewars.com(Python)
+
 HackerRank.com(Python)
 
 SQLZoo(SQL)
+
 William C. Chen on Quora(SQL): https://www.quora.com/What-are-some-good-resources-to-practice-SQL-for-a-data-science-interview
 
 William C. Chen on Quora(General Data Science): https://datascienceinterview.quora.com/Answers-1
+
 Galvanize's Immersive Program Assessment Questions(General Data Science)
+
 120 Data Science Interview Questions(General Data Science)
+
 SpringBoard(General Data Science): https://www.springboard.com/blog/data-science-interview-questions/
 
+
 Andrew Ng(Machine Learning): https://www.coursera.org/learn/machine-learning
+
 Introduction to Statistical Learning(Machine Learning): http://www-bcf.usc.edu/~gareth/ISL/
+
 Introduction to Machine Learning(Machine Learning): http://alex.smola.org/drafts/thebook.pdf
 
+Galvanize Model Comparison
+
 Think Bayes(Statistics): http://www.greenteapress.com/thinkbayes/
+
 Think Stats(Statistics): http://www.greenteapress.com/thinkstats/
 
 ## Schedule
@@ -65,27 +76,14 @@ Since I am practicing for interviews, the way I'll be practicing these problems 
 2. Solutions to the problems
 
 SQL: SQLZoo.net
+
 Python: Codewars.com , Hackerrank.com
+
 Machine Learning: Feynman Technique on each Machine Learning Algorithms/Interview Questions
+
 Probability/Statistics: Khan Academy + Feynman Technique on Interview Questions
 
 And in addition to all these, working on the take-home practice(s) for one day on the weekends. One day for rest(probably Sunday).
 
-I'll attempt the problem without looking, check the answer, apply a memory technique( if necessary), re-do the problem knowing the answer and then move on. 
-
-
-
-
-
-How do I define how much I know about a topic so I can move on?
-How can I maintain my knowledge of a specific topic once I "know it" without spending too much time?
-What type of environment should I be practicing in? 
-How can I use the specific learning tools I know to my advantage? i.e Mnemonics, Memory Palaces etc. 
-Can I fit in another project in this timeframe? 
-
-
-
-
-
-
+I'll attempt the problem without looking, check the answer, apply a memory technique(if necessary), re-do the problem knowing the answer and then move on. Each problem and solution will be logged in this Github repository so I can review previous problems. 
 
