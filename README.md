@@ -64,7 +64,7 @@ A few principles I'm applying to my schedule:
 
 Here's my preliminary schedule:
 
-<img width="140" alt="screen shot 2017-04-12 at 12 40 58 pm" src="https://cloud.githubusercontent.com/assets/22338112/24976190/52d401ac-1f7d-11e7-9a00-621ea69f5c98.png">
+<img width="710" alt="screen shot 2017-04-12 at 3 29 20 pm" src="https://cloud.githubusercontent.com/assets/22338112/24982170/e598de6a-1f94-11e7-9a73-2efbb734daeb.png">
 
 As I continue to interview, I'll identify which skill I'm weakest and that'll get moved to the front of the queue. There's a chance I may need to increase the time on a specific skill due to upcoming interview on a specific topic. 
 
