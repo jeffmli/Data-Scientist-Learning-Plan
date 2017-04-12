@@ -90,5 +90,9 @@ Probability/Statistics: Khan Academy + Feynman Technique on Interview Questions
 
 And in addition to all these, working on the take-home practice(s) for one day on the weekends. One day for rest(probably Sunday).
 
-I'll attempt the problem without looking, check the answer, apply a memory technique(if necessary), re-do the problem knowing the answer and then move on. Each problem and solution will be logged in this Github repository so I can review previous problems. 
+## Additional Notes:
+
+- I'll attempt the problem without looking, check the answer, apply a memory technique(if necessary), re-do the problem knowing the answer and then move on. Each problem and solution will be logged in this Github repository so I can review previous problems. 
+
+- For the sake of time, only use a Feynman technique or create a cheat sheet for topics I struggle with. May not have the time to create it for everything. 
 
