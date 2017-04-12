@@ -7,11 +7,14 @@ And in order to continue self-educating myself, a solid plan is very important. 
 
 The plan here will emphasize practice>learning, since I've already finished covering most of the material. For me the focus will be on application of the ideas, so you might notice that the resources are more tailored to this approach. Practicing will help identify holes in my understanding, which optimizes my time spent on filling my weaknesses. 
 
-## Goal: Find a good-fit between my own skillset and a company's Data Science team.
+## Goal:  Find a good-fit between my own skillset and a company's Data Science team.
 
 ## Requirements:
+
 Get an offer
+
 Pass on-site interviews
+
 Pass take-home examination
 
 ## Required Skillsets:
@@ -22,11 +25,11 @@ Pass take-home examination
 
 ## Resources
 
-Codewars.com(Python)
+Codewars(Python): https://Codewars.com 
 
-HackerRank.com(Python)
+Hacker Rank(Python): https://HackerRank.com
 
-SQLZoo(SQL)
+SQLZoo(SQL): https://SQLZoo.net
 
 William C. Chen on Quora(SQL): https://www.quora.com/What-are-some-good-resources-to-practice-SQL-for-a-data-science-interview
 
@@ -74,6 +77,8 @@ Since I am practicing for interviews, the way I'll be practicing these problems 
 1. Practice Problems
 
 2. Solutions to the problems
+
+Here are the initial resources I plan to use: 
 
 SQL: SQLZoo.net
 
